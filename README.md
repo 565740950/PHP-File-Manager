@@ -44,13 +44,13 @@
 
 ***运行在 `IIS 7.5` 时的截图。***
 
-![1](https://raw.githubusercontent.com/bclswl0827/Go-File-Manager/master/screenshots/1.jpg "1")
+![1](https://raw.githubusercontent.com/bclswl0827/PHP-File-Manager/master/screenshots/1.jpg "1")
 
-![2](https://raw.githubusercontent.com/bclswl0827/Go-File-Manager/master/screenshots/2.jpg "2")
+![2](https://raw.githubusercontent.com/bclswl0827/PHP-File-Manager/master/screenshots/2.jpg "2")
 
-![3](https://raw.githubusercontent.com/bclswl0827/Go-File-Manager/master/screenshots/3.jpg "3")
+![3](https://raw.githubusercontent.com/bclswl0827/PHP-File-Manager/master/screenshots/3.jpg "3")
 
-![4](https://raw.githubusercontent.com/bclswl0827/Go-File-Manager/master/screenshots/4.jpg "4")
+![4](https://raw.githubusercontent.com/bclswl0827/PHP-File-Manager/master/screenshots/4.jpg "4")
 
 ## 备注
 
