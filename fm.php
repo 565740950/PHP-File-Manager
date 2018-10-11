@@ -2140,7 +2140,7 @@ function fm_show_footer()
 
 <!-- 不要删除我 -->
 
-<p class="center"><small>Copyright &copy; 2018 <a href="https://ibcl.us/">BCLSWL</a>.<br>All rights reserved.</small></p>
+<p class="center"><small>Copyright &copy; 2018 <a href="https://github.com/bclswl0827">Yukiho</a>.<br>All rights reserved.</small></p>
 
 <!-- 不要删除我 -->
 
